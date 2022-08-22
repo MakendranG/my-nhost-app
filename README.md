@@ -1,1 +1,0 @@
-# my-nhost-app
